@@ -1,21 +1,21 @@
-﻿id,name,breed,gender,age,size,color,shelter_name,shelter_address,shelter_city,shelter_state,shelter_zip,phone_number,url
-1,Max,Pug,M,,Small,white,Gateway Pet Guardians,,St. Louis,MO,,,
-2,Lucy,Black Labrador Retriever,F,,Large,black,Labradors and Friends Dog Rescue,,San Diego,CA,,,http://www.labradorsandfriends.org/
-3,Buddy,Golden Retriever,M,,Medium,golden,A Home Away Pet Boarding and Rescue,,Greenfield,IN,,765-565-1502,
-4,Cooper,Bull Terrier,M,,Medium,gray,Carbon County Animal Shelter,,Nesquehoning,PA,,570-325-4828,
-5,Luna,Dobermann,F,,Small,black,Fortunate Pooches and Lab Rescue,,Palatine,IL,,773-318-2239,http://www.fortunatelabrescue.org/
-6,Molly,Shih Tzu,F,,Small,white,Pine Valley Shih Tzu Rescue,,Philadelphia,PA,,610-220-1755,http://www.pvstr.org/
-7,Bear,Rottweiler,M,,Large,black,Outer Banks SPCA/Dare County Animal Shelter,,Manteo,NC,,252-475-5998,http://www.obxspca.org
-8,Duke,English Bulldog,M,,Large,brindle,Bullies 2 the Rescue,,Indian Trail,NC,,704-882-1525,http://www.bullies2therescue.com/
-9,Toby,Chihuahua,M,,small,white,Angels of Gaston Animal Rescue,,Dallas,NC,,704-460-7533,
-10,Tucker,German Shepherd,M,,Large,brindle,Front Range German Shepherd Rescue,,Denver,CO,,,http://www.frgsr.org/
-11,Bailey,Greyhound,F,,Large,gray,Greyhound Adoption of Ohio,,Chagrin Falls,OH,,800-269-1148,http://www.greyhoundadoptionofoh.org/
-12,Maggie,Poodle,F,,Medium,white,"Reach Out Rescue, NFP",,Oak Lawn,IL,,708-582-7671,http://www.rornfp.org/
-13,Sophie,French Bulldog,F,,Medium,black,HCPHES Veterinary Public Health,,Houston,TX,,281-999-3191,http://www.countypets.com/
-14,Sadie,Labrador Retriever,F,,Medium,white,Barktown Rescue,,Bardstown,KY,,502-833-2275,http://www.barktownrescue.org/
-15,Rocky,Boxer,M,,Small,brown,LoveyLoaves,,Orlando,FL,,407-446-2245,http://www.loveyloaves.org/
-16,Jack,German Shepherd,M,,Medium,brindle,German Shepherd Rescue of Orange County,,Newport Beach,CA,,714-974-7762,http://www.gsroc.org/
-17,Lola,Maltese,F,,Small,white,For the Luv of Paws,,Golden Valley,AZ,,928-897-7304,http://www.fortheluvofpaws.org/
-18,Daisy,Pit Bull,F,,Medium,gray,Standing Proud Pit Bull Rescue,,Mesa,AZ,,,http://www.standingproudpitbulls.org/
-19,Charlie,Yorkshire Terrier,M,,Medium,brown,Happy Tails Happy Homes,,Bellingham,WA,,360-209-4450,http://www.happytailshappyhomes.org/
-20,Bella,Beagle,F,,Small,brown,Multnomah County Animal Services,,Portland,OR,,,http://asapmetro.org/
+﻿name,breed,gender,age,size,color,shelter_name,shelter_address,shelter_city,shelter_state,shelter_zip,phone_number,url
+Max,Pug,M,,Small,white,Gateway Pet Guardians,,St. Louis,MO,,,
+Lucy,Black Labrador Retriever,F,,Large,black,Labradors and Friends Dog Rescue,,San Diego,CA,,,http://www.labradorsandfriends.org/
+Buddy,Golden Retriever,M,,Medium,golden,A Home Away Pet Boarding and Rescue,,Greenfield,IN,,765-565-1502,
+Cooper,Bull Terrier,M,,Medium,gray,Carbon County Animal Shelter,,Nesquehoning,PA,,570-325-4828,
+Luna,Dobermann,F,,Small,black,Fortunate Pooches and Lab Rescue,,Palatine,IL,,773-318-2239,http://www.fortunatelabrescue.org/
+Molly,Shih Tzu,F,,Small,white,Pine Valley Shih Tzu Rescue,,Philadelphia,PA,,610-220-1755,http://www.pvstr.org/
+Bear,Rottweiler,M,,Large,black,Outer Banks SPCA/Dare County Animal Shelter,,Manteo,NC,,252-475-5998,http://www.obxspca.org
+Duke,English Bulldog,M,,Large,brindle,Bullies 2 the Rescue,,Indian Trail,NC,,704-882-1525,http://www.bullies2therescue.com/
+Toby,Chihuahua,M,,small,white,Angels of Gaston Animal Rescue,,Dallas,NC,,704-460-7533,
+Tucker,German Shepherd,M,,Large,brindle,Front Range German Shepherd Rescue,,Denver,CO,,,http://www.frgsr.org/
+Bailey,Greyhound,F,,Large,gray,Greyhound Adoption of Ohio,,Chagrin Falls,OH,,800-269-1148,http://www.greyhoundadoptionofoh.org/
+Maggie,Poodle,F,,Medium,white,"Reach Out Rescue, NFP",,Oak Lawn,IL,,708-582-7671,http://www.rornfp.org/
+Sophie,French Bulldog,F,,Medium,black,HCPHES Veterinary Public Health,,Houston,TX,,281-999-3191,http://www.countypets.com/
+Sadie,Labrador Retriever,F,,Medium,white,Barktown Rescue,,Bardstown,KY,,502-833-2275,http://www.barktownrescue.org/
+Rocky,Boxer,M,,Small,brown,LoveyLoaves,,Orlando,FL,,407-446-2245,http://www.loveyloaves.org/
+Jack,German Shepherd,M,,Medium,brindle,German Shepherd Rescue of Orange County,,Newport Beach,CA,,714-974-7762,http://www.gsroc.org/
+Lola,Maltese,F,,Small,white,For the Luv of Paws,,Golden Valley,AZ,,928-897-7304,http://www.fortheluvofpaws.org/
+Daisy,Pit Bull,F,,Medium,gray,Standing Proud Pit Bull Rescue,,Mesa,AZ,,,http://www.standingproudpitbulls.org/
+Charlie,Yorkshire Terrier,M,,Medium,brown,Happy Tails Happy Homes,,Bellingham,WA,,360-209-4450,http://www.happytailshappyhomes.org/
+Bella,Beagle,F,,Small,brown,Multnomah County Animal Services,,Portland,OR,,,http://asapmetro.org/
