@@ -1,1 +1,45 @@
 <h1>All Dogs</h1>
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>NAME</th>
+      <th>BREED</th>
+      <th>GENDER</th>
+      <th>AGE</th>
+      <th>SIZE</th>
+      <th>COLOR</th>
+      <th>SHELTER</th>
+      <th>ADDRESS</th>
+      <th>CITY</th>
+      <th>STATE</th>
+      <th>ZIP</th>
+      <th>PHONE NUMBER</th>
+      <th>URL</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @guests.each do |guest| %>
+      <tr>
+        <td><%= guest.id %></td>
+        <td><%= guest.name %></td>
+        <td><%= guest.breed %></td>
+        <td><%= guest.gender %></td>
+        <td><%= guest.age %></td>
+        <td><%= guest.size %></td>
+        <td><%= guest.color %></td>
+        <td><%= guest.shelter_name %></td>
+        <td><%= guest.shelter_address %></td>
+        <td><%= guest.shelter_city %></td>
+        <td><%= guest.shelter_state %></td>
+        <td><%= guest.shelter_zip %></td>
+        <td><%= guest.phone_number %></td>
+        <td><%= guest.url %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
