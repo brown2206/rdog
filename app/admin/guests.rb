@@ -3,6 +3,8 @@ ActiveAdmin.register Guest, as: "Dog" do
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
 #
+filter :by_categorization_in, label: "Categorization", as: :select, collection: %w[ New Active Inactive ]
+
 permit_params :name, :breed, :gender, :age, :size, :color, :shelter_name,
 :shelter_address, :shelter_city, :shelter_state, :shelter_zip, :phone_number, :url
 
